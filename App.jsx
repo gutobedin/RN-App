@@ -75,11 +75,11 @@ const styles = StyleSheet.create({
   },
   listContainer: {
     width: "100%",
-    justifyContent: "center", // Centraliza verticalmentea
+    justifyContent: "center",
   },
   list: {
     width: "100%",
-    justifyContent: "center", // Centraliza o conteúdo dentro da lista
+    justifyContent: "center",
   },
   button: {
     marginBottom: 30,
